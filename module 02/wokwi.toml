@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/module_02.bin"
+elf = "build/module_02.elf"
