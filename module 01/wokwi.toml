@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "build/module_01.bin"
-elf = "build/module_01.elf"
+firmware = 'build/flasher_args.json'
+elf = 'build/module1.elf'
